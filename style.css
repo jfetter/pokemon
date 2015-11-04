@@ -1,0 +1,14 @@
+body{
+	background-color: gray;
+}
+
+#holder{
+	border: 3px solid black;
+	width: 40vw;
+	text-align: center;
+	background-color: white;
+	margin: 5vw;
+	border-radius: 10%;
+	font-weight: bold;
+	color: red;
+}
